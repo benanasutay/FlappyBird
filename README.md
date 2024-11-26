@@ -21,4 +21,4 @@ A modern remake of the classic Flappy Bird game, built using **JavaScript**, **H
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/3d-flappy-bird-game.git
+   git clone https://github.com/username/FlappyBird.git
