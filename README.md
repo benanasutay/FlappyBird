@@ -24,6 +24,6 @@ A modern remake of the classic Flappy Bird game, built using **JavaScript**, **H
    git clone https://github.com/username/FlappyBird.git
 
 ## Screenshot 📸
-![Game Screenshot](screenshots/flappybird.png)
-![Game Screenshot](screenshots/flappybird..png)
+![Game Screenshot](flappybird.png)
+![Game Screenshot](flappybird..png)
                   
