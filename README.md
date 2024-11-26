@@ -25,5 +25,5 @@ A modern remake of the classic Flappy Bird game, built using **JavaScript**, **H
 
 ## Screenshot 📸
 ![Game Screenshot](flappybird.png)
-![Game Screenshot](flappybird..png)
+![Game Screenshot](Flappybird..png)
                   
